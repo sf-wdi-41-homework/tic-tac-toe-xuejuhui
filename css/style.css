@@ -14,3 +14,13 @@
 	width: 80%;
 
 }
+button{
+	
+	margin-left: 48%;
+	border-radius: 20px;
+	margin-top: 1%;
+}
+body{
+	background-image: url('./back.jpg');
+	background-size: cover;
+}
